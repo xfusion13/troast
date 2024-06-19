@@ -16,7 +16,7 @@ pip install /opt/troast
 ```
 or
 ```
-pipx install -f "git+https://github.com/xfusion13/pre2k.git";
+pipx install -f "git+https://github.com/xfusion13/troast.git";
 ```
 
 ## Usage
