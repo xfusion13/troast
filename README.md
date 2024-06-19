@@ -4,6 +4,8 @@
 
 Troast is Pre2k without password spray.
 
+![](.github/sample.gif)
+
 ## Installation
 
 ```
