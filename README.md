@@ -8,6 +8,8 @@ Troast is Pre2k without password spray.
 
 ```
 git clone https://github.com/xfusion13/troast.git /opt/troast
+```
+```
 pip3 install /opt/troast
 ```
 or
