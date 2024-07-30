@@ -1,5 +1,6 @@
 import typer
 from troast.lib.troast import Troast
+from troast.lib.troast import gen_dict
 
 app = typer.Typer()
 COMMAND_NAME = 'gen-dict'
