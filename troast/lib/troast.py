@@ -167,7 +167,7 @@ class Troast:
                             
     
     def hashcat_format(self, rid : int, hashval : bytes, salt : bytes) -> str:
-        return f'{rid}:$sntp-ms${hexlify(hashval).decode()}${hexlify(salt).decode()}'
+        return f'$sntp-ms${hexlify(hashval).decode()}${hexlify(salt).decode()}'
     
 
     def compute_hash(self, password : str, salt : bytes) -> bytes:
